@@ -1,0 +1,8 @@
+# Streamlit UI framework for the project dashboard.
+streamlit
+
+# Data handling for metric charts and future integration.
+pandas
+
+# Numerical utilities required by future recommendation components.
+numpy
