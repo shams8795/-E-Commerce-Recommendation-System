@@ -308,10 +308,9 @@ The Streamlit application will automatically open in the browser.
 ---
 
 # Project Context
+ل
 
-This project was developed for:
 
-## AIE425 – Intelligent Recommender System
 
 The project demonstrates an interactive e-commerce application focused on:
 
